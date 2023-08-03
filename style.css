@@ -178,6 +178,10 @@ section#img12 {
     background-size: cover;
 }
 
+section#img12 p {
+margin-right: 25px;
+}
+
 section#img13 {
     background-image: url(imagens/Comendo-sorvete.jpeg);
     background-position: center center;
